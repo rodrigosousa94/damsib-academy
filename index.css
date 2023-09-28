@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #E5E5E5;
+    font-family: 'Kufam', sans-serif;;
+}
+
+.logo{
+    stroke: black;
+    filter: drop-shadow(2px 3px 2px #000);
+}
+nav{
+    fill: #000;
+    filter: drop-shadow(2px 3px 2px #000);
+    display: flex;
+    
+}
+
+main{
+    margin: 200px 0 0 80px;
+}
+
+.text-side{
+   width: 60%
+   heigth: auto;
+    
+}
+
+.title-main{
+    font-size: 40px;
+}
+
+.btn{
+    background-color: #190495;
+    border-radius: 30px;
+    filter: drop-shadow(2px 3px 2px #0E0644);
+    text-weight: bold;
+    color: #fff;
+    padding: 15px;
+}
+
+
+@media (max-width: 1024px) {
+    .btn{
+        display:flex;
+        align-items: center;
+        justify-content: center;
+     }
+  }
+

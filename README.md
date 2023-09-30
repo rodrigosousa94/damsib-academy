@@ -1,4 +1,4 @@
-<h1>Damsim Academy</h1>
+<h1>Damsib Academy</h1>
 <br>
 <br>
 <h3>Esse projeto desenvolvi praticando com o conteúdo que aprendi no <a href="https://rodolfomori/devclub">DevClub</a></h3> 
